@@ -12,7 +12,7 @@ Production de troupes
 + Des troupes que l'on vient d'acheter ne peuvent être utilisées pour attaquer ce tour ci. 
 + Seules les villes peuvent produire des canons.
 
-| Règle                | Fantassin            | Cavalier             | Canon                   |
+|                      | Fantassin            | Cavalier             | Canon                   |
 | -------------------- | -------------------- | -------------------- | ----------------------- |
 | Coût                 | 1 chevalier + 1 bois | 2 chevalier + 2 blés | 3 chevalier + 3 pierres |
 | Équivalent fantassin | 1                    | 3                    | 6                       |
