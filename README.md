@@ -12,7 +12,7 @@ Production de troupes
 + Des troupes que l'on vient d'acheter ne peuvent être utilisées pour attaquer ce tour ci. 
 + Seules les villes peuvent produire des canons.
 
-| -                    | Fantassin            | Cavalier             | Canon                   |
+| Règle                | Fantassin            | Cavalier             | Canon                   |
 | Coût                 | 1 chevalier + 1 bois | 2 chevalier + 2 blés | 3 chevalier + 3 pierres |
 | Équivalent fantassin | 1                    | 3                    | 6                       |
 
@@ -23,9 +23,9 @@ Déplacements
 + Une armée peut passer ou stationner sur une ville adverse adverse sans combat s'il n'y a pas de troupes dedans. La ville concernée peut attaquer l'armée stationnée sur sa case (lorsque que c'est le tour du joueur qui la contrôle) avec ses troupes de garnison (défenses naturelles). Dans ce cas, la ville ne peut pas perdre de troupes.
 + Les troupes peuvent se déplacer grâce aux ports. Elles doivent alors attendre un nombre de tours selon leur type. Ce temps est réduit si les ports appartiennent au même joueur (si le port de départ appartient au joueur?).
 
-| -                    | Fantassin            | Cavalier             | Canon                   |
-| Deplacements         | 2                    | 3                    | 1                       |
-| Attente au port      | 1                    | 3                    | 6                       |
+| Règle           | Fantassin | Cavalier | Canon |
+| Deplacements    | 2         | 3        | 1     |
+| Attente au port | 1         | 3        | 6     |
 
 
 Phase de combats
@@ -42,4 +42,6 @@ Tout doux liste
 -----------------
 + Ajouter un cout en resource aux déplacements par les ports?
 + Rappeler les règles de combat de Risk
++ Traductions
++ Crédits
 
